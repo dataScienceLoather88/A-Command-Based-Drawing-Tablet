@@ -1,1 +1,1 @@
-a thing we were supposed to make for our Programming Fundamentals course project (this project sucks)
+We were supposed to make this for our Programming Fundamentals course project (this project sucks).
